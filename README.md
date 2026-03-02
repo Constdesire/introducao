@@ -1,2 +1,14 @@
+POST, GET, PUT E DELETE - > PessoaController
 
-![Uploading Captura de tela 2026-03-01 233443.png…]()
+![POST](IMG-FUNCIONAMENTO/POST.png)
+
+![GET 1](IMG-FUNCIONAMENTO/GET.png)
+
+![PUT](IMG-FUNCIONAMENTO/PUT.png)
+
+![GET 2](IMG-FUNCIONAMENTO/GET2.png)
+
+![DELETE](IMG-FUNCIONAMENTO/DELETE.png)
+
+
+
