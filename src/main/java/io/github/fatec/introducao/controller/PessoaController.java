@@ -9,7 +9,7 @@ public class PessoaController {
 
     private static PessoaReqst pessoaSalva;
 
-    // --- POST k---
+    // --- POST ---
     @PostMapping
     public PessoaReqst criar(@RequestBody PessoaRequest request) {
         String novoId = UUID.randomUUID().toString();
