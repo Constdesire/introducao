@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(value = "cliente")
-public record ClienteOrmMongo(
+public record PessoaOrmMongo(
         @Id
         String id,
         String nome,
