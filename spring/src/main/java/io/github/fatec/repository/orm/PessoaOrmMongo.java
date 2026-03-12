@@ -3,8 +3,8 @@ package io.github.fatec.repository.orm;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(value = "pessoa")
-public record PessoaOrmMongo(
+@Document(value = "cliente")
+public record ClienteOrmMongo(
         @Id
         String id,
         String nome,
